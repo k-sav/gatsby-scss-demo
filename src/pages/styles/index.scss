@@ -1,0 +1,16 @@
+.page-home {
+  h1 {
+    color: black;
+    color: $mycolor;
+  }
+
+  .gatsby-astronaut {
+    @include myroundimgstyle;
+
+    margin: 0 auto 1em;
+
+    img {
+      width: 100%;
+    }
+  }
+}

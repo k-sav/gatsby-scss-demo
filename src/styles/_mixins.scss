@@ -1,0 +1,8 @@
+@mixin myroundimgstyle {
+    overflow: hidden;
+    width: 10em;
+    height: 10em;
+    border-radius: 100%;
+    border: solid 6px $othercolor;
+    background-color: $othercolor;
+  }

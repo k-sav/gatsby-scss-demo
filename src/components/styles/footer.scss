@@ -1,0 +1,14 @@
+footer {
+  
+  width: 100%;
+  height: $footer_height;
+  line-height: $footer_height;
+  color: white;
+  text-align: center;
+  background-color: $footerbgcolor;
+
+  p {
+    font-size: 1em;
+    margin: 0;
+  }
+}
